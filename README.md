@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vivek02Sharma
 - 👀 I’m interested in DATA SCIENCE
-- 🌱 I’m currently learning C Language
+- 🌱 I’m currently learning C/C++ Language
 - 💞️ I’m looking to collaborate with someone who can guide me.
 - 📫 How to reach me ...
 
