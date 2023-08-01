@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vivektusharma@gmail.com**
 
-- ⚡ Fun fact **I code like a mad scientist who just drank 10 cups of coffee**
+- ⚡ Fun fact **- I code like a mad scientist who just drank 10 cups of coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
